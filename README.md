@@ -1,3 +1,3 @@
-# my_leetcode_solutions
+# my-leetcode-solutions
 
 1. #1 - Two Sum - **Accepted**, *48ms*
