@@ -9,3 +9,4 @@
 7. #21 - Merge Two Sorted Lists - **4ms**, *938 KB*
 8. #26 - Remove Duplicates from Sorted Array - **8ms**, *1.5 MB*
 9. #27 - Remove Element - **8ms**, *5MB*
+10. #28 - Implement strStr() - **92ms**, *4.9MB*
