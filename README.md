@@ -12,3 +12,4 @@
 10. #28 - Implement strStr() - **92ms**, *4.9MB*
 11. #35 - Search Insert Position - **4ms**, *4.6MB*
 12. #38 - Count and Say - **4ms**, *7.5MB*
+13. #53 - Maximum Subarray - **8ms**, *8.6MB*
