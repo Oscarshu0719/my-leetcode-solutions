@@ -14,3 +14,4 @@
 12. #38 - Count and Say - **4ms**, *7.5MB*
 13. #53 - Maximum Subarray - **8ms**, *8.6MB*
 14. #58 - Length of Last Word - **12ms**, *7.3MB*
+15. #69 - Sqrt() - **20ms**, *12.3MB*
