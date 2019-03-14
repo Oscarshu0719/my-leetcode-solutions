@@ -15,3 +15,4 @@
 13. #53 - Maximum Subarray - **8ms**, *8.6MB*
 14. #58 - Length of Last Word - **12ms**, *7.3MB*
 15. #69 - Sqrt() - **20ms**, *12.3MB*
+16. #70 - Climbing Stairs - **5288ms**, *6.7MB*
