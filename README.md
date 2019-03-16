@@ -16,3 +16,4 @@
 14. #58 - Length of Last Word - **12ms**, *7.3MB*
 15. #69 - Sqrt() - **20ms**, *12.3MB*
 16. #70 - Climbing Stairs - **5288ms**, *6.7MB*
+17. #83 - Remove Duplicates from Sorted List - **8ms**, *7.7MB*
