@@ -18,3 +18,4 @@
 16. #70 - Climbing Stairs - **5288ms**, *6.7MB*
 17. #83 - Remove Duplicates from Sorted List - **8ms**, *7.7MB*
 18. #88 - Merge Sorted Array - **4ms**, *7.6MB*	
+19. #100 - Same Tree - **4ms**, *8.5MB*
